@@ -16,3 +16,6 @@ class mahasiswa{
 
 };
 
+mahasiswa :: mahasiswa(){
+}
+
