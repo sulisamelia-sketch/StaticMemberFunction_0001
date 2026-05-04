@@ -11,3 +11,6 @@ class buku{
         }
 };
 
+int main()
+{
+    // Bagian main terpotong di foto
